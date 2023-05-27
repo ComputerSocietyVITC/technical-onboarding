@@ -3,7 +3,7 @@
 
 ![IEEE CS LOGO](/assets/logo.png)
 
-Welcome, young Padawan! Congratulations on getting into the club! This is the GitHub repository for the Technical Onboarding Process of IEEE Computer Society VITC. 
+Welcome, young guns! Congratulations on getting into the club! This is the GitHub repository for the Technical Onboarding Process of IEEE Computer Society VITC. 
 
 By completing this Technical Onboarding Process, you will grow your skills in basic [Git](https://git-scm.com/) and [GitHub](https://github.com/), along with learning how to deploy a simple static site on [Netlify](https://www.netlify.com/) Completing this is a requirement for new members joining the club, so please take your time and finish it.
 
