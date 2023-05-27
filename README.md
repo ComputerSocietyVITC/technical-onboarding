@@ -1,7 +1,7 @@
 # Technical Onboarding Process 🚀
-
 <hr/>
-<img src = "https://github.com/ComputerSocietyVITC/technical-onboarding/assets/67182544/61ead81e-b5b5-4e1b-9701-3cc259912448" width=320 align="right"/>
+
+<img src = "https://github.com/ComputerSocietyVITC/technical-onboarding/assets/67182544/14047861-4420-4f0b-80cd-3f4bdff5a3b4" width=320 align="right"/>
 
   🖥️ Welcome, young guns  ! Congratulations on getting into the club! This is the GitHub repository for the Technical Onboarding Process of IEEE Computer Society VITC. 
 
