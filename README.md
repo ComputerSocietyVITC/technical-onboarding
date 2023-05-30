@@ -16,6 +16,13 @@ so please take your time and finish it.
 
 As you are navigating the technical onboarding, please reference our WhatsApp group chats to ask any doubts! If you encounter any issues with the pages as such, you can open a [GitHub discussion 📢](https://github.com/ComputerSocietyVITC/technical-onboarding/discussions) and our members will get to you real quick. Make sure you review other issues/questions to help or get help!
 
+## Prerequisites 
+- A PC with good internet connection
+- A GitHub account
+- A Netlify account
+
+If you are ready with these, then you are all set to breeze through this!
+
 ### Designed by
 
 - [Visnu R](https://github.com/calciumcarbonate321) 💪🏻
