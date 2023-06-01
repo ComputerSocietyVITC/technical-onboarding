@@ -20,4 +20,4 @@ You can `commit` changes to your Git repository, you can `pull` changes from you
 
 Now all these fancy terms might seem alien to you, but hey! that is why you are here, in this onboarding process. By the end of this, you too will know everything that is to know about Git!
 
-Click [here](Git%20-%20The%20Basics.md) to move on to the next lesson.
+Click [here](Git%20-%20The%20Basics.md) to move on to the next module.

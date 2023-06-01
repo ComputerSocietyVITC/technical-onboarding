@@ -22,10 +22,11 @@ As you are navigating the technical onboarding, please reference our WhatsApp gr
 - A Netlify account
 
 If you are ready with these, then you are all set to breeze through this!
+(A small note, we will be using Windows throughout this, the process is similar for other OSs too, if you face any issues please ask in our WhatsApp group or create a GitHub issue)
 
 ### Designed by
 
-- [Visnu R](https://github.com/calciumcarbonate321) 💪🏻
+
 
 
 
